@@ -107,7 +107,7 @@ author:
   name             : "김종권"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "우당탕탕 김종권"
-  location         : "지구인""Somewhere"
+  location         : "지구인"
   email            :
   links:
     - label: "Email"
